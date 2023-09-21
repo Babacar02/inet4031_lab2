@@ -1,0 +1,105 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 Sep20 ?        00:00:03 /sbin/init
+root           2       0  0 Sep20 ?        00:00:00 [kthreadd]
+root           3       2  0 Sep20 ?        00:00:00 [rcu_gp]
+root           4       2  0 Sep20 ?        00:00:00 [rcu_par_gp]
+root           5       2  0 Sep20 ?        00:00:00 [slub_flushwq]
+root           6       2  0 Sep20 ?        00:00:00 [netns]
+root           8       2  0 Sep20 ?        00:00:00 [kworker/0:0H-events_highpri]
+root          10       2  0 Sep20 ?        00:00:00 [mm_percpu_wq]
+root          11       2  0 Sep20 ?        00:00:00 [rcu_tasks_rude_]
+root          12       2  0 Sep20 ?        00:00:00 [rcu_tasks_trace]
+root          13       2  0 Sep20 ?        00:00:03 [ksoftirqd/0]
+root          14       2  0 Sep20 ?        00:00:00 [rcu_sched]
+root          15       2  0 Sep20 ?        00:00:00 [migration/0]
+root          16       2  0 Sep20 ?        00:00:00 [idle_inject/0]
+root          18       2  0 Sep20 ?        00:00:00 [cpuhp/0]
+root          19       2  0 Sep20 ?        00:00:00 [kdevtmpfs]
+root          20       2  0 Sep20 ?        00:00:00 [inet_frag_wq]
+root          21       2  0 Sep20 ?        00:00:00 [kauditd]
+root          22       2  0 Sep20 ?        00:00:00 [khungtaskd]
+root          23       2  0 Sep20 ?        00:00:00 [oom_reaper]
+root          24       2  0 Sep20 ?        00:00:00 [writeback]
+root          25       2  0 Sep20 ?        00:00:02 [kcompactd0]
+root          26       2  0 Sep20 ?        00:00:00 [ksmd]
+root          27       2  0 Sep20 ?        00:00:00 [khugepaged]
+root          73       2  0 Sep20 ?        00:00:00 [kintegrityd]
+root          74       2  0 Sep20 ?        00:00:00 [kblockd]
+root          75       2  0 Sep20 ?        00:00:00 [blkcg_punt_bio]
+root          76       2  0 Sep20 ?        00:00:00 [tpm_dev_wq]
+root          77       2  0 Sep20 ?        00:00:00 [ata_sff]
+root          78       2  0 Sep20 ?        00:00:00 [md]
+root          79       2  0 Sep20 ?        00:00:00 [edac-poller]
+root          80       2  0 Sep20 ?        00:00:00 [devfreq_wq]
+root          81       2  0 Sep20 ?        00:00:00 [watchdogd]
+root          83       2  0 Sep20 ?        00:00:01 [kworker/0:1H-kblockd]
+root          85       2  0 Sep20 ?        00:00:00 [kswapd0]
+root          86       2  0 Sep20 ?        00:00:00 [ecryptfs-kthrea]
+root          88       2  0 Sep20 ?        00:00:00 [kthrotld]
+root          90       2  0 Sep20 ?        00:00:00 [acpi_thermal_pm]
+root          91       2  0 Sep20 ?        00:00:00 [scsi_eh_0]
+root          93       2  0 Sep20 ?        00:00:00 [scsi_tmf_0]
+root          94       2  0 Sep20 ?        00:00:00 [scsi_eh_1]
+root          95       2  0 Sep20 ?        00:00:00 [scsi_tmf_1]
+root          96       2  0 Sep20 ?        00:00:00 [vfio-irqfd-clea]
+root          98       2  0 Sep20 ?        00:00:00 [mld]
+root          99       2  0 Sep20 ?        00:00:00 [ipv6_addrconf]
+root         109       2  0 Sep20 ?        00:00:00 [kstrp]
+root         112       2  0 Sep20 ?        00:00:00 [zswap-shrink]
+root         113       2  0 Sep20 ?        00:00:00 [kworker/u3:0]
+root         118       2  0 Sep20 ?        00:00:00 [charger_manager]
+root         155       2  0 Sep20 ?        00:00:00 [cryptd]
+root         165       2  0 Sep20 ?        00:00:00 [scsi_eh_2]
+root         168       2  0 Sep20 ?        00:00:00 [scsi_tmf_2]
+root         189       2  0 Sep20 ?        00:00:00 [ttm_swap]
+root         191       2  0 Sep20 ?        00:00:00 [irq/18-vmwgfx]
+root         193       2  0 Sep20 ?        00:00:00 [card0-crtc0]
+root         195       2  0 Sep20 ?        00:00:00 [card0-crtc1]
+root         196       2  0 Sep20 ?        00:00:00 [card0-crtc2]
+root         197       2  0 Sep20 ?        00:00:00 [card0-crtc3]
+root         198       2  0 Sep20 ?        00:00:00 [card0-crtc4]
+root         199       2  0 Sep20 ?        00:00:00 [card0-crtc5]
+root         200       2  0 Sep20 ?        00:00:00 [card0-crtc6]
+root         201       2  0 Sep20 ?        00:00:00 [card0-crtc7]
+root         216       2  0 Sep20 ?        00:00:00 [kdmflush]
+root         242       2  0 Sep20 ?        00:00:00 [raid5wq]
+root         293       2  0 Sep20 ?        00:00:00 [jbd2/dm-0-8]
+root         294       2  0 Sep20 ?        00:00:00 [ext4-rsv-conver]
+root         364       1  0 Sep20 ?        00:00:00 /lib/systemd/systemd-journald
+root         390       2  0 Sep20 ?        00:00:00 [kaluad]
+root         396       2  0 Sep20 ?        00:00:00 [kmpath_rdacd]
+root         398       2  0 Sep20 ?        00:00:00 [kmpathd]
+root         399       2  0 Sep20 ?        00:00:00 [kmpath_handlerd]
+root         401       1  0 Sep20 ?        00:00:00 /lib/systemd/systemd-udevd
+root         402       1  0 Sep20 ?        00:00:00 /sbin/multipathd -d -s
+root         518       2  0 Sep20 ?        00:00:00 [jbd2/sda2-8]
+root         520       2  0 Sep20 ?        00:00:00 [ext4-rsv-conver]
+systemd+     542       1  0 Sep20 ?        00:00:01 /lib/systemd/systemd-timesyncd
+systemd+     609       1  0 Sep20 ?        00:00:00 /lib/systemd/systemd-networkd
+systemd+     611       1  0 Sep20 ?        00:00:00 /lib/systemd/systemd-resolved
+root         622       1  0 Sep20 ?        00:00:00 /usr/sbin/cron -f -P
+message+     623       1  0 Sep20 ?        00:00:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         629       1  0 Sep20 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         630       1  0 Sep20 ?        00:00:00 /usr/libexec/polkitd --no-debug
+syslog       631       1  0 Sep20 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root         635       1  0 Sep20 ?        00:00:00 /lib/systemd/systemd-logind
+root         637       1  0 Sep20 ?        00:00:00 /usr/libexec/udisks2/udisksd
+root         641       1  0 Sep20 tty1     00:00:00 /bin/login -p --
+root         668       1  0 Sep20 ?        00:00:00 /usr/sbin/ModemManager
+root         670       1  0 Sep20 ?        00:00:00 sshd: /usr/sbin/sshd -D [listener] 0 of 10-100 startups
+root         681       1  0 Sep20 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+babacar+     927       1  0 Sep20 ?        00:00:00 /lib/systemd/systemd --user
+babacar+     928     927  0 Sep20 ?        00:00:00 (sd-pam)
+babacar+     934     641  0 Sep20 tty1     00:00:00 -bash
+root         956     670  0 Sep20 ?        00:00:00 sshd: babacar03 [priv]
+babacar+    1011     956  0 Sep20 ?        00:00:08 sshd: babacar03@pts/0
+babacar+    1012    1011  0 Sep20 pts/0    00:00:00 -bash
+root        1135       1  0 Sep20 ?        00:00:03 /usr/lib/snapd/snapd
+root        1531       1  0 Sep20 ?        00:00:00 /usr/libexec/upowerd
+root        1705       2  0 00:07 ?        00:00:11 [kworker/0:1-events]
+root        1733       2  0 00:56 ?        00:00:00 [kworker/u2:0-events_power_efficient]
+root        1753       2  0 01:17 ?        00:00:00 [kworker/0:2]
+root        1790       2  0 01:38 ?        00:00:00 [kworker/u2:1-events_unbound]
+root        1815       2  0 01:48 ?        00:00:00 [kworker/u2:2-events_unbound]
+root        1838       2  0 02:05 ?        00:00:00 [kworker/u2:3-events_unbound]
+babacar+    1848    1012  0 02:10 pts/0    00:00:00 ps -ef
